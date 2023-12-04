@@ -7,9 +7,7 @@ class NewPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        centerTitle: true,
-        actions: [],
-        title: Text("This is a Text"),
+
       ),
     );
   }
