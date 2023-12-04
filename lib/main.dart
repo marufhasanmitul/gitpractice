@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:untitled/custom_page.dart';
 import 'package:untitled/search_page.dart';
 
 void main(){
@@ -11,7 +12,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      home: SearchPage(),
+      home: CustomPage(),
     );
   }
 }
