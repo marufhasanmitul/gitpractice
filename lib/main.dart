@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:untitled/custom_page.dart';
 import 'package:untitled/page_3.dart';
-import 'package:untitled/search_page.dart';
+
 
 void main(){
   runApp(const MyApp());
